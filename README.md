@@ -2,7 +2,7 @@
 
 This repository contains an automation workflow for:
 
-✔ Email Support Automation  
+- Email Support Automation  
 
 ## Tools Used
 - n8n
@@ -12,7 +12,8 @@ This workflow automatically:
 - Monitors incoming emails  
 - Classifies emails into categories (finance, customer, marketing, etc.)  
 - Applies labels automatically  
-- Sends auto-replies based on category  
+- Sends auto-replies based on category
+- RAG-powered response retrieval from Google Docs**  
 
 ## How to Use
 1. Download the JSON file  
